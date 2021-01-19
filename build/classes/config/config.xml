@@ -1,0 +1,15 @@
+<?xml version="1.0"?>  
+<calculatorConfig>  
+    <operations>  
+        <name>%</name>  
+        <name>(</name>  
+        <name>)</name>
+        <name>DEL</name>  
+        <name>/</name>  
+        <name>DEL</name>  
+        <name>DEL</name>  
+        <name>DEL</name>  
+        <name>DEL</name>  
+        <name>DEL</name>    
+    </operations>  
+</calculatorConfig>  
